@@ -1,0 +1,16 @@
+{
+  "version": "2025.09.3",
+  "etag": "W/\"a1b2c3d4\"",
+  "packs": [
+    {
+      "kind": "quote",
+      "url": "https://toncdn.example.com/quotes_pack_2025_09_3.json",
+      "sha256": ""
+    }
+  ],
+  "config": {
+    "dailyReminder": "09:00",
+    "abTest": "B",
+    "adsEnabled": true
+  }
+}
